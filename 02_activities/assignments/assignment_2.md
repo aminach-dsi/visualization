@@ -9,27 +9,30 @@
     - You can find data visualizations at https://public.tableau.com/app/discover or https://datavizproject.com/, or anywhere else you like! 
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
-      ```
-      Your answer...
 
-
-
-
-
-
-
-      ```
-    - How could this data visualization have been improved?  
-      ```
-      Your answer...
-
-
-
-
-
-
+```
+Good visualization : Energy Consumption vs. GDP Dashboard
+Source : https://public.tableau.com/app/profile/energyforgrowthhub/viz/final_ConsumptionvsGDP/Sheet1
       
-      ```
+I classified this visual as good because it clearly communicates the relationship between energy consumption and GDP growth. It adheres to key principles of good data visualization, such as clarity, accuracy, and interactivity. The scatter plot is the ideal chart type for displaying correlations, with well-labeled axes and the option to interact with the data to explore different dimensions. Furthermore, the use of subtle colors and clear tooltips that provide additional information without cluttering the visual makes the visualization very comprehensive. The chart’s clear labeling and user-friendly design ensure that the visuals remain easily interpretable, even for non-expert audiences.
+
+Bad visualization : Radial Stacked Bar Charts by Ryan Rowland
+Source : https://public.tableau.com/app/profile/ryan.rowland/viz/RadialStackedBarCharts/RadialStackBarCharts
+
+I classified this visual as bad because it presents several issues that make it difficult to understand. One of the primary concerns is the design: the radial aspect makes the visualization hard to interpret, especially when comparing the sizes of slices in a circular format. The segments' angular distribution makes it difficult to accurately estimate and compare values, which is crucial when analyzing trends or proportions. Additionally, the use of too many segments in this radial chart creates a cluttered and overwhelming visual. The data is divided into too many categories, making it challenging for viewers to focus on key insights.
+Furthermore, the lack of clear labeling on each section or data point leads to confusion, and the chart lacks a sufficient legend to guide the viewer. The color palette used in the chart, while distinct in some cases, does not provide enough contrast.
+```
+
+
+How could this data visualization have been improved?  
+      
+      
+```
+The good visual : it could be improved by adding more explicit insights or highlighted trends to guide the viewer’s attention to the most critical findings.
+
+The bad visual : the radial design should be avoided in favor of more straightforward, easily interpretable chart types, such as bar or line charts. These types are better suited for making comparisons across categories. Additionally, improving the labeling and ensuring accessibility by using high-contrast colors and clear legends would make the chart more effective and user-friendly.
+```
+      
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 300 words for your good example and 500 for your bad example)
 
