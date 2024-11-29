@@ -8,29 +8,48 @@
 - Using Python and one other data visualization software (Excel or free alternative, Tableau Public, any other tool you prefer), create two distinct visualizations from your dataset of choice.  
 - For each visualization, describe and justify: 
     > What software did you use to create your data visualization?
+    > 
     Visualization 1: Python ==> See "Visual_by_python.ipynb" file
     Visualization 2: PowerBI ==> See "Visual_by_PowerBi.pdf" file
     I used data from Ontario’s Open Data Catalogue: https://data.ontario.ca/dataset/national-occupation-classification-noc-skill-level/resource/310484f5-fe9c-4ba6-aa76-7422899dfd71
     The CSV file is in this folder and called "Unemployement_rate.csv"
-    > Who is your intended audience? 
+  
+    > Who is your intended audience?
+    > 
     My audiences are Data analysts, executives and non-technical decision-makers.
-    > What information or message are you trying to convey with your visualization? 
+  
+    > What information or message are you trying to convey with your visualization?
+    > 
     Highlight trends or correlations in unemployment rates over time for specific occupations in Ontario
-    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots? 
+  
+    > What design principles (substantive, perceptual, aesthetic) did you consider when making your visualization? How did you apply these principles? With what elements of your plots?
+    > 
     I Used clear labeling and a horizontal bar chart for readability (perceptual), consistent color schemes (aesthetic), and accurate representation of data points (substantive).
-    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization? 
-    - My Python visualization is reproducible, as it is built with clear, well-documented code, version control, and detailed documentation of data cleaning and processing steps.
-    - My PowerBI visualization ensures reproducibility through saved project files that preserve the dataset, transformations, and visualization settings, enabling consistent results when reopened or shared.
+  
+    > How did you ensure that your data visualizations are reproducible? If the tool you used to make your data visualization is not reproducible, how will this impact your data visualization?
+    > 
+My Python visualization is reproducible, as it is built with clear, well-documented code, version control, and detailed documentation of data cleaning and processing steps.
+
+My PowerBI visualization ensures reproducibility through saved project files that preserve the dataset, transformations, and visualization settings, enabling consistent results when reopened or shared.
+
     > How did you ensure that your data visualization is accessible?  
-    For Accessibility, I used clear and concise labels, color schemes that are accessible to colorblind individuals.
-    In addition, for the PowerBI visualization, I Implemented tooltips and drill-down capabilities to allow users to explore data in more detail.
+    
+For Accessibility, I used clear and concise labels, color schemes that are accessible to colorblind individuals.
+In addition, for the PowerBI visualization, I Implemented tooltips and drill-down capabilities to allow users to explore data in more detail.
+    
     > Who are the individuals and communities who might be impacted by your visualization?  
-    Employers, policymakers addressing labor market inequalities, and the IRCC (Immigration Refugees and Citizenship Canada) to help them make informed decisions about immigration policies.
+    
+Employers, policymakers addressing labor market inequalities, and the IRCC (Immigration Refugees and Citizenship Canada) to help them make informed decisions about immigration policies.
+    
     > How did you choose which features of your chosen dataset to include or exclude from your visualization? 
-    I focused on the unemployment rates for specific occupations in Ontario, as this is the most relevant information for my target.
+    
+I focused on the unemployment rates for specific occupations in Ontario, as this is the most relevant information for my target.
+    
     > What ‘underwater labour’ contributed to your final data visualization product?
-    For Python's visual : Data cleaning, filtering, and debugging visualization code.
-    For PowerBI's visual : Data transformation, data modeling, and data visualization design.
+    
+For Python's visual : Data cleaning, filtering, and debugging visualization code.
+    
+For PowerBI's visual : Data transformation, data modeling, and data visualization design.
 
 - This assignment is intentionally open-ended - you are free to create static or dynamic data visualizations, maps, or whatever form of data visualization you think best communicates your information to your audience of choice! 
 - Total word count should not exceed **(as a maximum) 1000 words** 
