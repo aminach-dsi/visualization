@@ -6,7 +6,7 @@
 - Let’s return to the data visualizations we evaluated for Assignment 2.  
 - For each visualization: 
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
-        ```
+```
 Good visualization : Energy Consumption vs. GDP Dashboard
 Source : https://public.tableau.com/app/profile/energyforgrowthhub/viz/final_ConsumptionvsGDP/Sheet1
 
@@ -23,21 +23,19 @@ This visualization is not accessible due to its radial design, which complicates
 
 Reproducibility is limited as the unconventional chart type (radial stacked bars) is not intuitive and requires specific design knowledge. Without documentation or access to the dataset, recreating this visualization is challenging.  
 
-Equity is undermined as the cluttered design and unclear labeling make it difficult for all audiences, particularly those with limited technical or analytical expertise, to derive meaningful insights. The design also risks marginalizing viewers who may lack familiarity with radial visualizations.  
-
-        ```
-    - How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
-        ```
+Equity is undermined as the cluttered design and unclear labeling make it difficult for all audiences, particularly those with limited technical or analytical expertise, to derive meaningful insights. The design also risks marginalizing viewers who may lack familiarity with radial visualizations.
+```
+    How could this data visualization have been improved (in terms of accessibility, reproducibility, equity)?  
+```
 The good visualization could be improved by incorporating explicit annotations to highlight critical trends or outliers. Additionally, reproducibility could be further improved by including a link to download the raw dataset and providing detailed documentation on the methodology used to process and visualize the data.  
 For equity, adding a contextual narrative about energy and GDP disparities (e.g., historical, regional factors) could provide a more inclusive understanding. Offering data for underrepresented or smaller economies, would ensure all regions are equitably represented.
 
 The bad visualization could be improved by adopting a more conventional chart type (e.g., bar or line chart), which facilitate easier comparisons and trend identification. Clear labeling and a high-contrast color scheme would make the chart more user-friendly and inclusive.  
 To enhance reproducibility, the creator should share the dataset and provide documentation explaining the methodology used to aggregate and visualize the data. This would allow others to replicate or validate the results using accessible chart types.  
 Equity could be addressed by reducing the number of categories displayed, focusing on key insights rather than overwhelming the viewer with excessive detail.
+```
 
-        ```
-
-- Word count should not exceed (as a maximum) 300 words for each visualization. 
+ - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
 ### Why am I doing this assignment?:
 - This ongoing assignment ensures active participation in the course, and assesses learning outcomes 2 and 3:  
